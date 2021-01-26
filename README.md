@@ -5,4 +5,4 @@ The two constants at the top, DIRECTORY and FONT_PATH, must be changed to a dire
 
 The program will generate 5 images, one for every metric I have included. These have a resolution of 500x500 and have 20 sites, by default. These things can be altered in the parameters of the Voronoi method. The images will be saved to the directory specified.
 
-Voranoi Test Results has 10 images. These are examples of the output of the program.
+The Voranoi Program Results folder has 10 images. These are examples of the output of the program.
